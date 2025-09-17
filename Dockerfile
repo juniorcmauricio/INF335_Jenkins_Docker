@@ -11,4 +11,4 @@ COPY OlaUnicamp.java .
 RUN javac OlaUnicamp.java
 
 # Specify the command to run the compiled Java program
-CMD ["java", "HelloWorld"]
+CMD ["java", "OlaUnicamp"]
